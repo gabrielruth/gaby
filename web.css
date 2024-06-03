@@ -1,0 +1,44 @@
+body {
+    background-color: #442303;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  a{
+    text-decoration: none;
+    color: #eee;
+  }
+  header{
+    width: 1140px;
+    max-width: 80%;
+    margin: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 100;
+  }
+  header a{
+    margin-right: 40px;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  h2{
+    text-decoration: none;
+    color: #eee;
+  }
+  p{
+    text-decoration: none;
+    color: #eee;
+  }
